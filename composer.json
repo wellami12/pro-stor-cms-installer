@@ -1,0 +1,14 @@
+{
+    "name": "pro-stor/cms-installer",
+    "description": "Installer for PRO-STOR CMS",
+    "type": "project",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "authors": [
+        {
+            "name": "Valentin Kushchenko",
+            "email": "well@pro-stor.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
